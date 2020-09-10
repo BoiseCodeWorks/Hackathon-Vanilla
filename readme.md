@@ -1,5 +1,3 @@
-![](hackathon-graphic.png)
-
 # `SocialForum.com`
 <img class="img-responsive" src="https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80">
 
@@ -39,5 +37,5 @@ In other words they are the same as about all other online forums. Here are some
   - Create a search or filter using tags or based on titles of posts
   - Pagenation 
     - only x amount of posts/comments per page
-  - favorite threads
+  - Favorite threads
       - users save all their favorites (you can setup users how the sandbox uses them, or save to local storage)
