@@ -31,7 +31,7 @@ Before you dive right into the code of this project you will want to take some t
 -   The primary focus to your project, why your site stands out. (*it's by cats for cats, you can only post gifs, etc...*)
 -   Create your product backlog (start with [This](https://trello.com/b/acx10Lks/hackathon))
 -   The general theme and design of the site, page, layouts, views, components, etc. (Create a Figma for your site)
--   Identify the relationships and the schemas for the data models
+-   Identify the relationships and the schemas for the data models (lucidcharts.com)
 
 From here you will want to assign one member of the team to create the project on their github and add each of the other team members as collaborators (*settings > manage access > invite collaborators*). This will allow anyone on the team to push and pull from this one github repo (**DO NOT FORK**, *simply clone from the main users repository*). From there, determine which team members will start with the backend and which will start with the front end.
 
