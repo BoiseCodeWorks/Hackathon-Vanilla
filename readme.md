@@ -66,3 +66,18 @@ The server team can start getting to work on creating models, services, and cont
     - only x amount of posts/comments per page
   - Favorite threads
       - users save all their favorites (hint: this is a many to many, there are several ways to create this relationship, review your reading)
+
+
+## Legal Overview
+
+The content under the CodeWorks®, LLC Organization and all of the individual repos are soley intended for use by CodeWorks Instruction to deliver Educational content to CodeWorks Students.
+
+---
+
+## Copyright
+
+© CodeWorks® LLC, 2021. Unauthorized use and/or duplication of this material without express and written permission from CodeWorks, LLC is strictly prohibited.
+
+
+<img src="https://bcw.blob.core.windows.net/public/img/7815839041305055" width="125">
+
